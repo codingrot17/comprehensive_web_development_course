@@ -1,0 +1,195 @@
+@media screen and (max-width: 1990px){
+    .main_section header{
+        font-size: 25px;
+    }
+    #navigation_menu header{
+        font-size: 1rem;
+    }
+    .hero_section .hero .hero_text{
+        
+        top: 250px;
+        left: 16%;
+       font-size: 16px;
+    }
+    
+    .hero .author{
+        top: 450px;
+        left: 25%;
+    }
+}
+
+@media screen and (max-width: 1100px){
+    .hero_section .hero .hero_text{
+        top: 250px;
+        left: 15%;
+       font-size: 14px;
+    }
+    
+    .hero .author{
+        top: 370px;
+        left: 25%;
+    }
+}
+
+@media screen and (max-width: 1000px){
+    .hero_section .hero .hero_text{
+        top: 170px;
+        left: 9%;
+       font-size: 14px;
+    }
+    
+    .hero .author{
+        top: 350px;
+        left: 15%;
+    }
+}
+
+@media screen and (max-width: 920px){
+    .hero_section .hero .hero_text{
+        top: 150px;
+        left: 5%;
+       font-size: 14px;
+    }
+    
+    .hero .author{
+        top: 300px;
+        left: 15%;
+    }
+}
+
+@media screen and (max-width: 900px){
+    #navigation_menu{
+        position: absolute;
+        top: 0;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        max-height: 258px;
+        border: none;
+        z-index: 1;
+        border-bottom: 2px solid;
+    }
+    #navigation_menu ul{
+        border: 1px solid;
+        height: 207px;
+    }
+    .main_section {
+        position: relative;
+        margin-left: 0px;
+        margin-top: 270px;
+    }
+    .hero_section .hero .hero_text{
+        top: 250px;
+        left: 16%;
+    }
+    
+    .hero .author{
+        top: 500px;
+        left: 25%;
+    }
+}
+@media screen and (max-width: 800px){
+    .hero_section .hero .hero_text{
+        top: 230px;
+        left: 16%;
+    }
+    
+    .hero .author{
+        top: 450px;
+        left: 25%;
+    }
+}
+@media screen and (max-width: 720px){
+    .hero_section .hero .hero_text{
+        top: 200px;
+        left: 10%;
+    }
+    
+    .hero .author{
+        top: 400px;
+        left: 15%;
+    }
+}
+@media screen and (max-width: 650px){
+    .hero_section .hero .hero_text{
+        top: 150px;
+        left: 10%;
+        font-size: 12px;
+    }
+    
+    .hero .author{
+        top: 350px;
+        left: 15%;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 550px){
+    .hero_section .hero .hero_text{
+        top: 150px;
+        left: 5%;
+        font-size: 12px;
+    }
+    
+    .hero .author{
+        top: 250px;
+        left: 15%;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 510px){
+    .hero_section .hero .hero_text{
+        top: 120px;
+        left: 5%;
+        font-size: 11px;
+        padding: 0;
+    }
+    
+    .hero .author{
+        top: 250px;
+        left: 10%;
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 420px){
+    .hero_section .hero .hero_text{
+        top: 120px;
+        left: 7%;
+        font-size: 10px;
+        padding: 0;
+    }
+    
+    .hero .author{
+        top: 250px;
+        left: 10%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 393px){
+    .hero_section .hero .hero_text{
+        top: 100px;
+        left: 7%;
+        font-size: 9px;
+        padding: 0;
+    }
+    
+    .hero .author{
+        top: 200px;
+        left: 9%;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 375px){
+    .hero_section .hero .hero_text{
+        top: 100px;
+        left: 8%;
+        font-size: 8px;
+        padding: 0;
+    }
+    
+    .hero .author{
+        top: 200px;
+        left: 9%;
+        font-size: 11px;
+    }
+}
