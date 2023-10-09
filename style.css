@@ -144,6 +144,10 @@ code{
     top: 20px;
     right: 5px;
     color: red;
+    background-color: white;
+    width: 99%;
+    padding: 0 10px;
+    border-radius: 5px;
     /* color: #F5F5F5; */
 }
 
@@ -178,3 +182,12 @@ a .bold{
     color: blue;
 }
 
+ol li{
+    font-weight: 700;
+    margin-top: 24px;
+}
+
+ol li .bold{
+    text-decoration: none;
+    font-weight: 700;
+}
